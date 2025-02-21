@@ -24,12 +24,20 @@ pip install -r requirements.txt
 ### Run BDD Tests
 ```sh
 pytest --capture=no
+Or
+pytest --html=report.html  
 ```
 
 ### Run Standard Pytest Tests
 ```sh
 pytest tests/
+Or
+pytest --html=report.html  
 ```
+
+## Reports
+Test reports are stored in `report.html`. Logging is managed via `utils/logger.py`.
+
 
 ## Logging
 Test logs are stored in `test_log.log`. Logging is managed via `utils/logger.py`.
