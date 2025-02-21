@@ -9,7 +9,7 @@ This project is a test automation framework built using Python, Selenium, and BD
 - Google Chrome browser
 - ChromeDriver
 
-### Setup Virtual Environment
+### Setup Virtual Environment (Skip this if you have PyCharm setup and running)
 ```sh
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Running Tests
 ### Run BDD Tests
 ```sh
-pytest --bdd --capture=no
+pytest --capture=no
 ```
 
 ### Run Standard Pytest Tests
