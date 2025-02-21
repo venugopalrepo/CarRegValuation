@@ -1,0 +1,6 @@
+2025-02-21 01:57:48,030 - INFO - Loaded 4 registration numbers from car_input.txt
+2025-02-21 01:57:48,031 - INFO - Loaded expected results from car_output.txt
+2025-02-21 01:58:00,676 - INFO - Checked AD58 VNF: Found ERROR, ERROR
+2025-02-21 01:58:08,628 - INFO - Checked BW57 BOW: Found ERROR, ERROR
+2025-02-21 01:58:16,398 - INFO - Checked KT17DLX: Found ERROR, ERROR
+2025-02-21 01:58:24,127 - INFO - Checked SG18 HTN: Found ERROR, ERROR
